@@ -1,0 +1,35 @@
+*,
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+
+html, body {
+  height: 100%;
+  overflow: scroll;
+  background: #eee;
+}
+
+#app {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.comp_main_container {
+  position: relative;
+}
+
+.comp_main_container header {
+  height: 60px;
+  line-height: 60px;
+  background: #fff;
+  padding:  0 10px;
+  box-sizing: border-box;
+}
+
+.comp_main_container header a {
+  text-decoration: none;
+  margin: 0 5px;
+}
