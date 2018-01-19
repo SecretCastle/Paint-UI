@@ -1,0 +1,122 @@
+{
+  "company":{
+    "titlebar":{
+      "cn": "应用/企业简介",
+      "en": "Application Introduction"
+    }
+  },
+  "hotline": {
+    "titlebar":{
+      "cn": "客服热线",
+      "en": "Hotline"
+    },
+    "radio":{
+      "title": {
+        "cn": "是否显示",
+        "en": "Display"
+      },
+      "radio": {
+        "yes":{
+          "cn": "是",
+          "en": "Yes"
+        },
+        "no":{
+          "cn": "否",
+          "en": "No"
+        }
+      }
+    },
+    "inputtitle":{
+      "title": {
+        "cn": "标题",
+        "en": "Title"
+      },
+      "placeholder": {
+        "cn": "客服热线",
+        "en": "Hotline"
+      }
+    },
+    "inputphone": {
+      "title": {
+        "cn": "电话",
+        "en": "Number"
+      }
+    }
+  },
+  "website": {
+    "titlebar":{
+      "cn": "网址",
+      "en": "Website"
+    },
+    "radio":{
+      "title": {
+        "cn": "是否显示",
+        "en": "Display"
+      },
+      "radio": {
+        "yes":{
+          "cn": "是",
+          "en": "Yes"
+        },
+        "no":{
+          "cn": "否",
+          "en": "No"
+        }
+      }
+    },
+    "inputtitle":{
+      "title": {
+        "cn": "标题",
+        "en": "Title"
+      },
+      "placeholder": {
+        "cn": "官方网址",
+        "en": "Website"
+      }
+    },
+    "inputphone": {
+      "title": {
+        "cn": "网址",
+        "en": "URL"
+      }
+    }
+  },
+  "feedback": {
+    "titlebar":{
+      "cn": "反馈邮箱",
+      "en": "Email"
+    },
+    "radio":{
+      "title": {
+        "cn": "是否显示",
+        "en": "Display"
+      },
+      "radio": {
+        "yes":{
+          "cn": "是",
+          "en": "Yes"
+        },
+        "no":{
+          "cn": "否",
+          "en": "No"
+        }
+      }
+    },
+    "inputtitle":{
+      "title": {
+        "cn": "标题",
+        "en": "Title"
+      },
+      "placeholder": {
+        "cn": "反馈邮箱",
+        "en": "Email"
+      }
+    },
+    "inputphone": {
+      "title": {
+        "cn": "地址",
+        "en": "Email Address"
+      }
+    }
+  }
+}
