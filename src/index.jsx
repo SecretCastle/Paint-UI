@@ -1,14 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import 'antd/dist/antd.css';
+import 'antd/dist/antd.less';
 import {
   HashRouter as Router,
   Route,
   Switch,
   Link
 } from 'react-router-dom';
-import styles from './index.css';
-
+import './index.less';
 import Application from './routes/application';
 
 
@@ -20,7 +19,6 @@ const App = () => (
     </header>
     <section>
       <Route path="/application" component={Application} />
-
     </section>
   </div>
 )

@@ -1,0 +1,88 @@
+{
+  "title":{
+    "titlebar":{
+      "cn":"标题栏",
+      "en":"Title Bar"
+    },
+    "radio":{
+      "title":{
+        "cn": "是否显示",
+        "en": "Display"
+      },
+      "radio":{
+        "yes":{
+          "cn": "是",
+          "en": "Yes"
+        },
+        "no":{
+          "cn":"否",
+          "en":"No"
+        }
+      }
+    },
+    "input":{
+      "title":{
+        "cn": "标题",
+        "en": "Title"
+      },
+      "placeholder": {
+        "cn": "设备列表",
+        "en": "Device List"
+      }
+    }
+  },
+  "weather":{
+    "titlebar":{
+      "cn": "天气组件",
+      "en": "Weather Component"
+    },
+    "radio":{
+      "title": {
+        "cn": "是否显示",
+        "en": "Display"
+      },
+      "radio":{
+        "yes":{
+          "cn": "是",
+          "en": "Yes"
+        },
+        "no":{
+          "cn":"否",
+          "en":"No"
+        }
+      }
+    }
+  },
+  "button":{
+    "titlebar":{
+      "cn": "底栏按钮",
+      "en": "Tab Bar Button"
+    },
+    "discription": {
+      "cn": "界面底栏用户切换主界面和设置界面的标签按钮。",
+      "en": "Interface bar user switch the main interface and the interface settings tab button."
+    },
+    "input": {
+      "title": {
+        "cn": "标题",
+        "en": "Title"
+      },
+      "placeholder":{
+        "cn": "设备",
+        "en": "Device"
+      }
+    },
+    "selectedupload": {
+      "title": {
+        "cn": "选中状态图标(预览和上传)",
+        "en": "Active Satus Icon"
+      }
+    },
+    "unselectedupload": {
+      "title": {
+        "cn": "未选中状态图标(预览和上传)",
+        "en": "Inactive Status Icon"
+      }
+    }
+  }
+}
