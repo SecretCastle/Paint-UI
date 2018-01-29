@@ -17,6 +17,8 @@
     "less-loader": "^4.0.5",
     "parcel-bundler": "^1.4.1",
     "postcss-modules": "^1.1.0",
+    "qrcode-react": "^0.1.16",
+    "qrious": "^4.0.2",
     "react": "^16.2.0",
     "react-color": "^2.13.8",
     "react-css-modules": "^4.7.1",

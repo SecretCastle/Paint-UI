@@ -5,6 +5,7 @@ import styles from './index.less';
 import AppSetting from './components/appsetting';
 import AppHom from './components/rebuild/tab-app-home';
 import AppAbout from './components/rebuild/tab-app-about';
+import QRCode from './components/qrcode';
 
 class Application extends PureComponent {
   render () {
@@ -15,11 +16,13 @@ class Application extends PureComponent {
           <Link to={`${match.url}/appsetting`}>产品配置</Link>
           <Link to={`${match.url}/apphome`}>主界面</Link>
           <Link to={`${match.url}/appabout`}>关于界面</Link>
+          <Link to={`${match.url}/qrcode`}>二维码</Link>          
         </header>
         <div className={styles.innerMain}>
           <Route path={`${match.url}/appsetting`} component={AppSetting} />
           <Route path={`${match.url}/apphome`} component={AppHom} />
           <Route path={`${match.url}/appabout`} component={AppAbout} />
+          <Route path={`${match.url}/qrcode`} component={QRCode} />
         </div>
       </div>
     )

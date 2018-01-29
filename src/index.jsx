@@ -7,12 +7,12 @@ import {
   Switch,
   Link
 } from 'react-router-dom';
-import './index.less';
+import styles from './index.less';
 import Application from './routes/application';
 
 
 const App = () => (
-  <div className="comp_main_container">
+  <div className={styles.comp_main_container}>
     <header>
       <Link to="/application">应用</Link>
       <Link to="/product">产品</Link>
